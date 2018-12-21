@@ -2,6 +2,7 @@
 Exercice Processing
 
 a - Describe project
+
 Smalls greens rectangles appears one by one on the screen. It's possible to draw on the screen, but greens rectangles cover what you let after the passage of the cursor.
 
 b- Steps of use, download processing IDE
